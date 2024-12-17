@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+PyPDF2
+camelot-py[cv]
+sentence-transformers
+faiss-cpu
+openai
+pandas
